@@ -1,0 +1,4 @@
+Python implementation==CPython
+Python version==3.7.4
+IPython version==7.11.1
+fastai==2.5.0
